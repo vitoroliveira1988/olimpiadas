@@ -24,7 +24,7 @@ Digite o nome de um atleta ou esporte e pronto! A mágica acontece: a aplicaçã
 * **Rápida:** A busca é super rápida, você não vai perder tempo esperando.
 * **Completa:** Tem um monte de informações sobre os atletas brasileiros.
 * **Fácil de usar:** Até seu avô consegue usar! 
-* **Bonitinha:** A interface é bem agradável aos olhos.
+* **Bonito:** A interface é bem agradável aos olhos.
 
 ###  **E se tiver algum bug?**
 
