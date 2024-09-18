@@ -9,9 +9,9 @@ Digite o nome de um atleta ou esporte e pronto! A mágica acontece: a aplicaçã
 ### ️ **Como foi feita?**
 
 * **HTML:** A estrutura básica da página, como se fosse o esqueleto de um site.
-* **CSS:** O estilista da aplicação, deixando tudo bonitinho e organizado.
+* **CSS:** O estilista da aplicação, deixando tudo bonito e organizado.
 * **JavaScript:** O cérebro da operação! Ele faz a busca, processa os dados e exibe os resultados na tela. 
-* **Um pouquinho de amor pela programação:** Para deixar tudo funcionando direitinho e com aquele toque especial. ❤️
+* **Um pouquinho de amor pela programação:** Para deixar tudo funcionando direitinho e com aquele toque especial. 
 
 ###  **Como usar?**
 
